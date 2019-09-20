@@ -1,0 +1,16 @@
+  
+# =============================================================================== 
+# KEYWORD1 = Class
+# KEYWORD2 = Métodos
+# ===============================================================================
+
+Jogo	KEYWORD1
+
+alvo_random	KEYWORD2
+alvo_random1	KEYWORD2
+set_alvo 	KEYWORD2
+setup_servos	KEYWORD2
+set_vel_alvo	KEYWORD2
+set_num_alvo	KEYWORD2
+get_vel_alvo	KEYWORD2
+get_num_alvo	KEYWORD2
